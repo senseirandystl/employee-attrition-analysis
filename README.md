@@ -24,7 +24,7 @@ This end-to-end data analysis project demonstrates core Data Analyst competencie
 
 **Dataset**: 1,470 employee records with 27 features including demographics, compensation, job satisfaction metrics, tenure, and work conditions. Synthetic data generated with intentional, realistic correlations (e.g., overtime and low satisfaction strongly predict higher attrition) for demonstration and reproducibility. **Note**: In a production setting, this analysis would use internal HRIS data; this version is fully shareable for portfolio purposes.
 
-**Live Repo**: [github.com/senseirandystl/employee-attrition-analysis](https://github.com/senseirandystl/employee-attrition-analysis) *(to be created from this structure)*
+**Live Repo**: [github.com/senseirandystl/employee-attrition-analysis](https://github.com/senseirandystl/employee-attrition-analysis)
 
 ---
 
@@ -195,11 +195,9 @@ All tests conducted with **α = 0.05**. Used appropriate non-parametric tests wh
 - **Medium-term**: Build predictive attrition model (logistic regression or random forest) using these features for proactive intervention. Track leading indicators in a live dashboard (similar to the Excel workflow dashboards I built that eliminated late reporting and increased throughput >100%).
 - **ROI framing**: Reducing attrition by even 5 percentage points in a 1,470-person org saves substantial replacement costs (typically 50-200% of annual salary per role).
 
-These recommendations demonstrate the ability to translate statistical findings into **prioritized, measurable business actions** — a core skill for Data Analyst and Project Coordinator roles.
-
 ---
 
-## What This Project Demonstrates (For Recruiters & Hiring Managers)
+## What This Project Demonstrates
 
 | Skill Area                  | Evidence in This Project |
 |-----------------------------|--------------------------|
@@ -210,8 +208,6 @@ These recommendations demonstrate the ability to translate statistical findings 
 | **Business Acumen**         | Tied analysis to real operational challenges (turnover costs, workload, satisfaction) relevant to lab ops, manufacturing, or corporate environments |
 | **Reproducibility**         | Fully scripted generation + analysis; clean CSV + images committed; documented methodology |
 | **Tool Proficiency**        | pandas (heavy), matplotlib/seaborn, scipy.stats, Jupyter-ready structure |
-
-This project complements my professional experience building Excel VBA dashboards that **eliminated late reporting (0%)** and **increased lab throughput >100%** by showing I can apply the same data-driven mindset in Python with statistical validation.
 
 ---
 
@@ -255,12 +251,8 @@ I am particularly excited to apply these skills to real organizational data—wh
 ---
 
 **About Me**  
-Randall James | Data Coordinator → aspiring Data Analyst / Project Manager  
+Randall James | Data Coordinator / Data Analyst / Project Manager  
 St. Louis, MO (O'Fallon area) | Open to remote, hybrid, or on-site within ~30 min commute  
 [LinkedIn](https://www.linkedin.com/in/randall-james-stl) | [GitHub](https://github.com/senseirandystl) | randalljames34@pm.me
 
 *This project was created as part of my professional portfolio to demonstrate Python-based data analysis capabilities for Data Analyst positions.*
-
----
-
-*Generated with ❤️ + Python for portfolio and job search purposes. Synthetic data used to ensure full reproducibility and shareability.*
