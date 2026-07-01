@@ -255,4 +255,4 @@ Randall James | Data Coordinator / Data Analyst / Project Manager
 St. Louis, MO (O'Fallon area) | Open to remote, hybrid, or on-site within ~30 min commute  
 [LinkedIn](https://www.linkedin.com/in/randall-james-stl) | [GitHub](https://github.com/senseirandystl) | randalljames34@pm.me
 
-*This project was created as part of my professional portfolio to demonstrate Python-based data analysis capabilities for Data Analyst positions.*
+*This project was created as part of my professional portfolio to demonstrate data analysis capabilities.*
